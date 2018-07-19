@@ -15,4 +15,4 @@ let randomNumber = Math.floor(Math.random() * 20) + 1;
 
 let randomInteger = Math.round(randomNumber);
 
-let randomUserID = Math.floor(Math.random(randomNumber) * 1000000000);
+let randomUserID = Math.floor(Math.random() * 1000000000);
